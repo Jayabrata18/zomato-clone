@@ -1,7 +1,12 @@
 {
+  "homepage": "https://jayabratapramanik.me/",
   "name": "zomato-clone",
-  "version": "0.1.0",
+  "version": "1.1.0",
+  "description": "A clone app of zomato made by Jayabrata in 2021",
   "private": true,
+  "email" : "jayabrata180402@gmail.com",
+  "url" : "https://github.com/Jayabrata18/zomato-clone/",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
